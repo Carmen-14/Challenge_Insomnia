@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-08-19T21:02:18.485Z",
+    "name": "Juan Pérez Actualizado",
+    "email": "juan.actualizado@email.com",
+    "age": 35,
+    "role": "superadmin"
+  },
+  {
+    "id": "2",
+    "name": "María García",
+    "email": "maria@email.com",
+    "age": 25,
+    "role": "user",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "b306dd23-ca93-4e4e-ba98-bf789a79b014",
+    "name": "Usuario Nuevo",
+    "email": "nuevo@email.com",
+    "age": 28,
+    "role": "user",
+    "createdAt": "2025-08-19T20:43:50.820Z",
+    "updatedAt": "2025-08-19T20:43:50.820Z"
+  }
+]
