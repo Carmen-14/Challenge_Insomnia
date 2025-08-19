@@ -1,11 +1,4 @@
-# 1. Primero hacer pull
-git pull origin main --allow-unrelated-histories
 
-# 2. Ver el contenido del README.md actual
-Get-Content README.md
-
-# 3. Reemplazar con TU README.md (el que te proporcioné)
-@"
 # 🚀 API RESTful para Gestión de Usuarios
 
 Una API RESTful completa construida con Node.js y Express para la gestión de usuarios con operaciones CRUD, autenticación JWT y persistencia en archivo JSON.
@@ -264,13 +257,6 @@ Si encuentras algún problema o tienes preguntas:
 ---
 
 **¡Desarrollado con ❤️ usando Node.js y Express!**
-"@ | Out-File -Encoding utf8 README.md -Force
 
-# 4. Agregar el README actualizado
-git add README.md
-
-# 5. Hacer commit del merge
-git commit -m "Merge remote changes and update README.md"
-
-# 6. Hacer push
-git push -u origin main
+## Contacto
+carmen1974t@gmail.com
